@@ -49,9 +49,9 @@ Look at the `find_by_id` and `find_by_address` methods in the Property class.
 Q10. What do they take in as their arguments?
 
     find_by_id takes an integer (for id)
-  find_by_address takes a string (for address)
+    find_by_address takes a string (for address)
 
 Q11. What are their return values?
 
     find_by_id returns a psql object
-  find_by_id returns a hash via the psql object
+    find_by_id returns a hash via the psql object
